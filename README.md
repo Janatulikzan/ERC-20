@@ -1,4 +1,4 @@
-Token ERC20 name Koin Gedang
+## Token ERC20 "Koin Gedang"
 
 A decentralized token built on Ethereum.
 
